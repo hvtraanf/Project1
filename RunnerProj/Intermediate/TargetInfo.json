@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RunnerProj",
+			"Path": "D:\\Project\\Runner\\Project1\\RunnerProj\\Source\\RunnerProj.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RunnerProjEditor",
+			"Path": "D:\\Project\\Runner\\Project1\\RunnerProj\\Source\\RunnerProjEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
